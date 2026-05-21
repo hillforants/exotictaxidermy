@@ -1,30 +1,10 @@
-# CollectionBuilder-Sheets
+# Exotic Taxidermy of the Victorian Era
+## A CollectionBuilder Website
 
-CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV (such as a published Google Sheet!). 
-This enables live collaboration to prototype collections with minimal set up.
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server (*or built automatically and hosted for free on GitHub Pages!*).
+Our theme for our collection is exotic taxidermy from the Victorian Era (1837-1901). This theme is interesting because it highlights Victorian morbid fascinations with the exotic resulting from colonialism. Additionally, the taxidermy itself is not always anatomically correct, showing a lack of emphasis on scientific accuracy. As taxidermy began to gain popularity, populations of wealthy status believed that exotic taxidermy in the home insinuated luxury, therefore causing a rampant increase of taxidermy furniture in the home. 
+The intended audience of this collection is anyone curious about the history of in-home taxidermy, the evolution of taxidermy away from science, or researchers focused on Victorian ideals and attitudes. Our audience can use our collection as a consolidated hub of resources on this topic to refer to in research or curiosity. Our collection will be made up of photographs of taxidermy, both finished and in-progress, which showcase the process of creation, as well as methods of displaying pieces. The content for this collection comes from various sources, such as the JSTOR archive, the Smithsonian Institution, and the Natural History Museum. 
 
-Visit the [CB-Sheets demo site](https://collectionbuilder.github.io/collectionbuilder-sheets/) to see it in action and even test your own metadata!
-
-To learn more check [docs/sheets-metadata.md](docs/sheets-metadata.md) or visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for step-by-step details for getting started and building collections.
-
-Note that CB-Sheets is based on and mostly compatible with [CollectionBuilder-GH](https://github.com/CollectionBuilder/collectionbuilder-gh), but handles the metadata parsing in a fundamentally different way. 
-
-----------
-
-## CollectionBuilder 
-
-<https://collectionbuilder.github.io/>
-
-CollectionBuilder is a project of University of Idaho Library's [Digital Initiatives](https://www.lib.uidaho.edu/digital/) and the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu) (CDIL) following the [Lib-Static](https://lib-static.github.io/) methodology. 
-Powered by the open source static site generator [Jekyll](https://jekyllrb.com/) and a modern static web stack, it puts collection metadata to work building beautiful sites.
-
-The basic theme is created using [Bootstrap](https://getbootstrap.com/).
-Metadata visualizations are built using open source libraries such as [DataTables](https://datatables.net/), [Leafletjs](http://leafletjs.com/), [Spotlight gallery](https://github.com/nextapps-de/spotlight), [lazysizes](https://github.com/aFarkas/lazysizes), and [Lunr.js](https://lunrjs.com/).
-Object metadata is exposed using [Schema.org](http://schema.org) and [Open Graph protocol](http://ogp.me/) standards.
-
-Questions can be directed to **collectionbuilder.team@gmail.com**
+URL: https://hillforants.github.io/exotictaxidermy/
 
 ## License
 
