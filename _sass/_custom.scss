@@ -3,6 +3,6 @@
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
 .bg-dark {
-    background-color: rgba(var(--bs-primary-rgb); 
+    background-color: #f57a00; 
     --bs-bg-opacity: 0.75;
 }
