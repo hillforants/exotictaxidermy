@@ -80,7 +80,7 @@ The public may use our repository and CollectionBuilder has references in the fu
 
 | Field Name         | Definition                             | Example Value              | Notes on Use                          |
 | ------------------ | -------------------------------------- | ---------------------------| ------------------------------------- |
-| Object id          | A list of the items in our collection in numbered order of when they were added.                    | object 1, object 13        |  NA                                   |
+| Object id          | A list of the items in our collection<br>in numbered order of when they were<br> added.                    | object 1, object 13        |  NA                                 |
 | Format             | The type of object in the collection, to be read by the computer.                                   | image/jpeg, image/png      | We only had images in our collection. |
 | File Name    | The name that we gave to our objects that matches the object id.     | object1.jpg, object13.jpg     | NA    |
 | Title        | An identifying or descriptive name for an object.       | Jumbo the Elephant, A Fox's Tale, Balancing Act of Animals, The Guinea Pig Cricket Match       | We had many items that we sourced from websites that were abandoned. These images were impossible to find anywhere else, so we were forced to work with the descriptions given to us. “Jumbo the Elephant” and “Balancing Act of Animals” were named for clarity for our audience, ease of browsing, and ease of data management. |
