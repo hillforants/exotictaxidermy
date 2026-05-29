@@ -5,6 +5,7 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 style,Style,true,,
+photographer,Photographer,
 location,Location
 latitude,Latitude
 longitude,Longitude
