@@ -3,3 +3,10 @@ date,Date,true
 creator,Creator,true
 subject,Subjects,true
 location,Location,true
+
+title,title,true
+date,Date,true
+taxidermist,taxidermist,true
+longitude,Longitude,true
+latitude,Latitude,true
+location,Location,true
