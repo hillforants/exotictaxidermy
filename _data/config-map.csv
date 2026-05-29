@@ -1,10 +1,4 @@
-field,display_name,search
-date,Date,true
-creator,Creator,true
-subject,Subjects,true
-location,Location,true
-
-title,title,true
+title,Title,true
 date,Date,true
 taxidermist,Taxidermist,true
 longitude,Longitude,true
