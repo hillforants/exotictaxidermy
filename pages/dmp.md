@@ -79,7 +79,7 @@ The public may use our repository and CollectionBuilder has references in the fu
 **Appendix: Data Dictionary**
 
 | Field Name   | Definition     | Example Value  | Notes on Use  |
-| :---         |     :---:      |     :---:      |     :---:     |
+| ------------ | -------------- | -------------- | ------------- |
 | Object id    | A list of the items in our collection in numbered order of when they were added. | object 1, object 13     |  NA   |
 | Format       | The type of object in the collection, to be read by the computer.       | image/jpeg, image/png       | We only had images in our collection.      |
 | File Name    | The name that we gave to our objects that matches the object id.     | object1.jpg, object13.jpg     | NA    |
