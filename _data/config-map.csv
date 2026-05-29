@@ -6,7 +6,7 @@ location,Location,true
 
 title,title,true
 date,Date,true
-taxidermist,taxidermist,true
+taxidermist,Taxidermist,true
 longitude,Longitude,true
 latitude,Latitude,true
-location,Location,true
+
