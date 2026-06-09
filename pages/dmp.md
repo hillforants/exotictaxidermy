@@ -41,7 +41,7 @@ See “Access, Use, and Rights” for our fair use argument. |
 
 All of our files are images (jpeg or png). To reproduce or work with our data, someone only needs access to CollectionBuilder, Github, Google Sheets, Google Docs, and Google Drive.
 
-| First Header  | Second Header | Third Header |
+| Type  | Amount | MBs |
 | ------------- | ------------- | -------------|
 | JPG  | 19  | 9.7459 MB |
 | PNG  | 4  | 2.751 MB |
