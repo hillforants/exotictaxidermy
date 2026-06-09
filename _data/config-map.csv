@@ -1,5 +1,4 @@
-field,display_name,search
-title,Title,true
+title,Title,search
 date,Date,true
 taxidermist,Taxidermist,true
 longitude,Longitude,true
