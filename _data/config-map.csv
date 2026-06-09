@@ -1,7 +1,5 @@
 field,display_name,search
 title,Title,true
 date,Date,true
-taxidermist,Taxidermist,true
-longitude,Longitude,true
-latitude,Latitude,true
+creator,Creator,true
 location,Location,true
